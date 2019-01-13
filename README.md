@@ -11,6 +11,6 @@ See [bands.csv](bands.csv) to see how the results will look like
 ----
 Enricher
 ========
-Not all britanica pages includes images, so i added an enricher from pexels to add missing images when needed.
+Not all britanica pages includes images, so i added an enricher from wikipedia to add missing images when needed.
   
 See [bands_enriched.csv](bands_enriched.csv) to see how the results will look like
